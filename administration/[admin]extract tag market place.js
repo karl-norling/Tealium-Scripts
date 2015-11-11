@@ -4,7 +4,8 @@
 
 //Extract Turn-Key Tags from Tealium to .csv
 //2015-11-05
-//Note: Uses Html-elements, must view the "user management"-list
+//Note: Uses Html-elements, must view the "user management"-list in Tealium IQ
+//Usage: Paste into Dev-console
 //Note: div[15] is only true for the first list viewed after relog
 
 var log_tags =[];
